@@ -1,3 +1,3 @@
 # MultiPhotoPicker
 android实现拍照和选择图库发表说说
-(http://github.com/TotoroWhite/MultiPhotoPicker/test.png)
+图片怎么样上传![image](https://github.com/test.png)
